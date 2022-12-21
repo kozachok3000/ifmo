@@ -7,6 +7,7 @@ Encrypt.py output:
 >Enter a text: 
 
 >текст для шифрования
+>
 >тдфиелрякяос втша ин
 
 Decrypt.py output:
@@ -15,4 +16,5 @@ Decrypt.py output:
 >6
 >Enter a ciphertext: 
 >тдфиелрякяос втша ин
+>
 >текст для шифрования
