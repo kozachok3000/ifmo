@@ -13,8 +13,3 @@ for i in range(len(text)//key+1):
 for j in range(key):
     for i in range(len(table)):
         print(table[i][j], end = '')
-print()
-for j in range(key):
-    for i in range(len(table)):
-        print(table[i][j], end = '')
-    print()
