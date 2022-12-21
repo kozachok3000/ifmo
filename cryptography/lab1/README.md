@@ -1,4 +1,4 @@
-#The task is to implement a transposition cipher
+#The task is to implement a transposition cipher#
 
 Encrypt.py output:
 
