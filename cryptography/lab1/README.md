@@ -5,14 +5,9 @@ Encrypt.py output:
 Enter a key: 
 6
 Enter a text: 
+
 текст для шифрования
 тдфиелрякяос втша ин
-тдфи
-елря
-кяо
-с в
-тша
- ин
 
 Decrypt.py output:
 
